@@ -42,10 +42,13 @@ def getDrinkTypes(url):
     df = pd.DataFrame(drink_type,columns=['Drink Type'])
     df['Drink Type Link'] = drink_type_list
     print(df)
-
+    print(df['Drink Type Link'][0])
+    df.to_csv('./dftocsv.csv')
 
     for drink in df:
-        print(drink)['Drink Type Link']
+        print('Entering For Loop')
+        print(drink)
+        print(drink['Drink Type Link'])
         getCofeeTypes(drink['Drink Type Link'])
         
 
@@ -53,6 +56,7 @@ def getDrinkTypes(url):
 
     
 def getCofeeTypes(coffeeUrlEndpoint):
+
     coffeeUrl = 'https://www.starbucks.com' + coffeeUrlEndpoint
     driver = webdriver.Firefox()
     driver.get(coffeeUrl)
