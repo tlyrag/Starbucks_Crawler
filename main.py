@@ -15,46 +15,45 @@ option.headless = True
 
 
 def getDrinkTypes(url):
-    driver = webdriver.Firefox()
-    driver.get(url)
-    driver.implicitly_wait(10)  # in seconds
-    starbucks_table = pd.DataFrame(columns = ['Drink Type','Drink Type Link','Coffee Name','Coffee Url','Ingredients'])
-    ### Getting HTML Elements from Website
-    element = driver.find_element(By.ID,"drinks")
-    html_content = element.get_attribute('outerHTML')
+    try:
+        driver = webdriver.Firefox()
+        driver.get(url)
+        driver.implicitly_wait(10)  # in seconds
+        starbucks_table = pd.DataFrame(columns = ['Drink Type','Drink Type Link','Coffee Name','Coffee Url','Ingredients'])
+        ### Getting HTML Elements from Website
+        element = driver.find_element(By.ID,"drinks")
+        html_content = element.get_attribute('outerHTML')
 
-    driver.quit()
+        driver.quit()
 
-    ### Reading Html Elements to grab Drink Type and Drink Type Url
-    soup = BeautifulSoup(html_content, 'html.parser')
-    print('Parsing Soup')
-    drink_type = soup.find_all("span",class_="hiddenVisually")
-    drink_type_list_soup = soup.find_all(class_='block linkOverlay__primary tile___1wb3i', href=True)
-    drink_type_list =[]
-
-    for drink in drink_type_list_soup:
-        drink_type_list.append(drink['href'])
-
-    #print(drink_type_list)
-
-
-    ## Creating Dataframe
-    df = pd.DataFrame(drink_type,columns=['Drink Type'])
-    df['Drink Type Link'] = drink_type_list
-    #print(df)
-
-    #print(df['Drink Type Link'][0])
-    #df.to_csv('dftocsv.csv')
+        ### Reading Html Elements to grab Drink Type and Drink Type Url
+        soup = BeautifulSoup(html_content, 'html.parser')
+        print('Parsing Soup')
+        drink_type = soup.find_all("span",class_="hiddenVisually")
+        drink_type_list_soup = soup.find_all(class_='block linkOverlay__primary tile___1wb3i', href=True)
+        drink_type_list =[]
+        
+        for drink in drink_type_list_soup:
+            drink_type_list.append(drink['href'])
+        
+        ## Creating Dataframe
+        df = pd.DataFrame(drink_type,columns=['Drink Type'])
+        df['Drink Type Link'] = drink_type_list
+    except: 
+        print('Could not connect with Starbucks Menu Website')
 
     for drink in df.index:
-        print('----------Iterating ------------')
+        print('----------Iterating:{} of {} ------------'.format(drink,df.index.len()))
         drink_type = (df['Drink Type'][drink])
         drink_link = (df['Drink Type Link'][drink])
-        temp_table = getCofeeTypes(drink_link,drink_type)
-        print(temp_table)
+        try:
+            temp_table = getCofeeTypes(drink_link,drink_type)
+        except:
+            print('Failed to grab {} information'.format(df['Drink Type'][drink]))
+
         starbucks_table = starbucks_table.append(temp_table) 
         starbucks_table.to_csv('starbucks.csv')
-            
+                
 
         driver.quit()
 
@@ -62,12 +61,19 @@ def getDrinkTypes(url):
 def getCofeeTypes(coffeeUrlEndpoint,drink_type):
     #print(starbucks_table)
     coffeeUrl = 'https://www.starbucks.com' + coffeeUrlEndpoint
-    driver = webdriver.Firefox()
-    driver.get(coffeeUrl)
-    driver.implicitly_wait(5)  # in seconds
-    element = driver.find_element(By.CSS_SELECTOR,'#content > div.footerOutOfView___14U1r.contentWithSubnav___2OXSW > div > div')
-    html_content = element.get_attribute('outerHTML')
-    driver.quit()
+    try:
+        driver = webdriver.Firefox()
+        driver.get(coffeeUrl)
+        driver.implicitly_wait(5)  # in seconds
+        element = driver.find_element(By.CSS_SELECTOR,'#content > div.footerOutOfView___14U1r.contentWithSubnav___2OXSW > div > div')
+        html_content = element.get_attribute('outerHTML')
+        driver.quit()
+    except:
+        print('Failed to grab Coffee Type information')
+        data = {'Drink Type': drink_type_list, 'Drink Type Link' : drink_type_url_list, 'Coffee Url': coffee_url_list, 'Coffee Name' :coffee_list, 'Ingredients' : coffee_ingredient_list  }
+        temp_table = pd.DataFrame(data)
+        return temp_table
+
     soup = BeautifulSoup(html_content, 'html.parser')
 
     coffees = soup.find_all(class_='block linkOverlay__primary prodTile')
@@ -94,25 +100,24 @@ def getCofeeTypes(coffeeUrlEndpoint,drink_type):
     return temp_table
 
 def getCoffeeRecipie(drink_url_endpoint):
-    drink_url_base = 'https://www.starbucks.com'
-    driver = webdriver.Firefox()
-    driver.get(drink_url_base +  drink_url_endpoint)
-    driver.implicitly_wait(2)  # in seconds
-    element = driver.find_element(By.CSS_SELECTOR,'#content > div.sb-global-gutters.sb-global-gutters--logoOffset.pt5 > div > div.lg-flex > div.flex-grow.column___1a8HI.columnRight___1GOba')
-    html_content = element.get_attribute('outerHTML')
-    driver.quit()
-    soup = BeautifulSoup(html_content, 'html.parser')
-
-    ingredients = soup.find_all('li')
-    # ingredients_types = soup.find_all(class_='floatLabel floatLabel--isActive cursor-pointer')
-    # ingridient_html = soup.find_all(class_='sb-fieldBase__childWrapper flex items-center')
-
-    # for ingredient_type in ingredients_types:
-    #     print(ingredient_type.get_text())
-    ingredient_list =[]
-    
-    for ingredient in ingredients:
-        ingredient_list.append(ingredient.get_text())
+    try:
+        ingredient_list =[]
+        drink_url_base = 'https://www.starbucks.com'
+        driver = webdriver.Firefox()
+        driver.get(drink_url_base +  drink_url_endpoint)
+        driver.implicitly_wait(2)  # in seconds
+        element = driver.find_element(By.CSS_SELECTOR,'#content > div.sb-global-gutters.sb-global-gutters--logoOffset.pt5 > div > div.lg-flex > div.flex-grow.column___1a8HI.columnRight___1GOba')
+        html_content = element.get_attribute('outerHTML')
+        driver.quit()
+        soup = BeautifulSoup(html_content, 'html.parser')
+        ingredients = soup.find_all('li')
+        
+        for ingredient in ingredients:
+            ingredient_list.append(ingredient.get_text())
+            return ingredient_list
+    except:
+        print('Failed to grab {} ingredients'.format())
+        ingredient_list.append('Unable to get data')
         return ingredient_list
 
 getDrinkTypes(menu_url)
