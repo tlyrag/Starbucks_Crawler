@@ -1,0 +1,216 @@
+,Unnamed: 0,Drink Type,Drink Type Link,Coffee Name,Coffee Url,Ingredients
+0,0, Hot Coffees ,/menu/drinks/hot-coffees,Caffè Americano,"['Water', '3  Shots', 'Signature Espresso Roast']",Ingredients
+1,1, Hot Coffees ,/menu/drinks/hot-coffees,Veranda Blend®,[],Ingredients
+2,2, Hot Coffees ,/menu/drinks/hot-coffees,Caffè Misto,"['2% Milk', 'Milk Foam', 'Steamed Hot']",Ingredients
+3,3, Hot Coffees ,/menu/drinks/hot-coffees,Featured Starbucks® Dark Roast Coffee,[],Ingredients
+4,4, Hot Coffees ,/menu/drinks/hot-coffees,Featured Medium Roast - Pike Place® Roast,[],Ingredients
+5,5, Hot Coffees ,/menu/drinks/hot-coffees,Decaf Pike Place® Roast,[],Ingredients
+6,6, Hot Coffees ,/menu/drinks/hot-coffees,Cappuccino,"['2% Milk', 'Regular Foam', 'Steamed Hot', '2  Shots', 'Signature Espresso Roast']",Ingredients
+7,7, Hot Coffees ,/menu/drinks/hot-coffees,Espresso,"['2  Shots', 'Signature Espresso Roast']",Ingredients
+8,8, Hot Coffees ,/menu/drinks/hot-coffees,Espresso Con Panna,"['Whipped Cream', '2  Shots', 'Signature Espresso Roast']",Ingredients
+9,9, Hot Coffees ,/menu/drinks/hot-coffees,Flat White,"['Whole Milk', 'Steamed Hot', '2  Shots', 'Signature Espresso Roast', 'Ristretto']",Ingredients
+10,10, Hot Coffees ,/menu/drinks/hot-coffees,Honey Almondmilk Flat White,"['Almond', 'Steamed Hot', '2  Shots', 'Ristretto', '3 pump (s) Honey Blend']",Ingredients
+11,11, Hot Coffees ,/menu/drinks/hot-coffees,Pumpkin Spice Latte,"['2% Milk', 'Milk Foam', 'Steamed Hot', '4 pump(s) Pumpkin Sauce', 'Pumpkin Spice Topping', 'Whipped Cream', '2  Shots', 'Signature Espresso Roast']",Ingredients
+12,12, Hot Coffees ,/menu/drinks/hot-coffees,Caramel Brulée Latte,"['2% Milk', 'Steamed Hot', '4 pump(s) Caramel Brulée Sauce', 'Caramel Brulée Topping', 'Whipped Cream', '2  Shots', 'Signature Espresso Roast']",Ingredients
+13,13, Hot Coffees ,/menu/drinks/hot-coffees,Chestnut Praline Latte,"['2% Milk', 'Steamed Hot', '4 pump(s) Chestnut Praline Syrup', 'Chestnut Praline Topping', 'Whipped Cream', '2  Shots', 'Signature Espresso Roast']",Ingredients
+14,14, Hot Coffees ,/menu/drinks/hot-coffees,Sugar Cookie Almondmilk Latte,"['Almond', 'Steamed Hot', '4 pump(s) Sugar Cookie Syrup', 'Red and Green Sprinkle Topping', '2  Shots']",Ingredients
+15,15, Hot Coffees ,/menu/drinks/hot-coffees,Caffè Latte,"['2% Milk', 'Milk Foam', 'Steamed Hot', '2  Shots', 'Signature Espresso Roast']",Ingredients
+16,16, Hot Coffees ,/menu/drinks/hot-coffees,Cinnamon Dolce Latte,"['2% Milk', 'Milk Foam', 'Steamed Hot', '4 pump(s) Cinnamon Dolce Syrup', 'Cinnamon Dolce Sprinkles', 'Whipped Cream', '2  Shots', 'Signature Espresso Roast']",Ingredients
+17,17, Hot Coffees ,/menu/drinks/hot-coffees,Starbucks Reserve® Latte,"['Whole Milk', 'Milk Foam', 'Steamed Hot', '2  Starbucks Reserve® Espresso Shots']",Ingredients
+18,18, Hot Coffees ,/menu/drinks/hot-coffees,Starbucks Reserve® Hazelnut Bianco Latte,"['2  Starbucks Reserve® Espresso Shots', 'Steamed Hot']",Ingredients
+19,19, Hot Coffees ,/menu/drinks/hot-coffees,Starbucks® Blonde Vanilla Latte,"['2% Milk', 'Milk Foam', '4 pump(s) Vanilla Syrup', '2  Shots']",Ingredients
+20,20, Hot Coffees ,/menu/drinks/hot-coffees,Apple Crisp Oatmilk Macchiato,"['Oatmilk', 'Steamed Hot', '3 pump(s) Apple Brown Sugar', 'Spiced Apple Drizzle', '2  Shots', 'Blonde Espresso Roast']",Ingredients
+21,21, Hot Coffees ,/menu/drinks/hot-coffees,Caramel Macchiato,"['2% Milk', 'Milk Foam', 'Steamed Hot', '3 pump(s) Vanilla Syrup', 'Caramel Drizzle', '2  Shots', 'Signature Espresso Roast']",Ingredients
+22,22, Hot Coffees ,/menu/drinks/hot-coffees,Espresso Macchiato,"['2% Milk', 'Milk Foam', '2  Shots', 'Signature Espresso Roast']",Ingredients
+23,23, Hot Coffees ,/menu/drinks/hot-coffees,Peppermint Mocha,"['2% Milk', 'Milk Foam', 'Steamed Hot', '4 pump(s) Peppermint Syrup', '4 pump(s) Mocha Sauce', 'Chocolate Curls Topping', 'Whipped Cream', '2  Shots', 'Signature Espresso Roast']",Ingredients
+24,24, Hot Coffees ,/menu/drinks/hot-coffees,Peppermint White Chocolate Mocha,"['2% Milk', 'Steamed Hot', '4 pump(s) Peppermint Syrup', '4 pump(s) White Chocolate Mocha Sauce', 'Chocolate Curls Topping', 'Whipped Cream', '2  Shots', 'Signature Espresso Roast']",Ingredients
+25,25, Hot Coffees ,/menu/drinks/hot-coffees,Toasted White Chocolate Mocha,"['2% Milk', 'Milk Foam', 'Steamed Hot', '4 pump(s) Toasted White Chocolate Mocha Sauce', 'Holiday Sugar Sparkles', 'Whipped Cream', '2  Shots', 'Signature Espresso Roast']",Ingredients
+26,26, Hot Coffees ,/menu/drinks/hot-coffees,Caffè Mocha,"['2% Milk', 'Milk Foam', 'Steamed Hot', '4 pump(s) Mocha Sauce', 'Whipped Cream', '2  Shots', 'Signature Espresso Roast']",Ingredients
+27,27, Hot Coffees ,/menu/drinks/hot-coffees,Starbucks Reserve® Dark Chocolate Mocha,"['Whole Milk', 'Milk Foam', 'Steamed Hot', '2  Starbucks Reserve® Espresso Shots']",Ingredients
+28,28, Hot Coffees ,/menu/drinks/hot-coffees,White Chocolate Mocha,"['2% Milk', 'Milk Foam', 'Steamed Hot', '4 pump(s) White Chocolate Mocha Sauce', 'Whipped Cream', '2  Shots', 'Signature Espresso Roast']",Ingredients
+29,29, Hot Coffees ,/menu/drinks/hot-coffees,Starbucks Reserve® Christmas 2022 Clover®,[],Ingredients
+30,30, Hot Coffees ,/menu/drinks/hot-coffees,Hawai‘i Ka‘u Clover® Starbucks Reserve®,[],Ingredients
+31,31, Hot Coffees ,/menu/drinks/hot-coffees,Sun-Dried Zambia Ngoli Estate Clover® Starbucks Reserve®,[],Ingredients
+32,32, Hot Coffees ,/menu/drinks/hot-coffees,Vietnam Da Lat Clover® Starbucks Reserve®,[],Ingredients
+33,33, Hot Coffees ,/menu/drinks/hot-coffees,Clover® Starbucks Reserve® Costa Rica Naranjo,[],Ingredients
+34,34, Hot Coffees ,/menu/drinks/hot-coffees,Clover Brewed® Pike Place® Roast,[],Ingredients
+35,35, Hot Coffees ,/menu/drinks/hot-coffees,Organic Yukon Blend® Clover®,[],Ingredients
+36,36, Hot Coffees ,/menu/drinks/hot-coffees,Clover Brewed® Gold Coast Blend®,[],Ingredients
+37,37, Hot Coffees ,/menu/drinks/hot-coffees,Clover Brewed® Breakfast Blend,[],Ingredients
+38,38, Hot Coffees ,/menu/drinks/hot-coffees,Kenya Clover®,[],Ingredients
+39,39, Hot Coffees ,/menu/drinks/hot-coffees,Veranda Blend® Clover®,[],Ingredients
+40,40, Hot Coffees ,/menu/drinks/hot-coffees,Clover Brewed® Starbucks Willow Blend,[],Ingredients
+41,41, Hot Coffees ,/menu/drinks/hot-coffees,Decaf Sumatra Clover®,[],Ingredients
+42,42, Hot Coffees ,/menu/drinks/hot-coffees,Caffé Verona® Clover®,[],Ingredients
+43,43, Hot Coffees ,/menu/drinks/hot-coffees,Clover Brewed® Decaf Pike Place® Roast,[],Ingredients
+44,44, Hot Coffees ,/menu/drinks/hot-coffees,Espresso Roast Clover®,[],Ingredients
+45,45, Hot Coffees ,/menu/drinks/hot-coffees,Decaf Espresso Roast Clover®,[],Ingredients
+46,46, Hot Coffees ,/menu/drinks/hot-coffees,Ethiopia Clover®,[],Ingredients
+47,47, Hot Coffees ,/menu/drinks/hot-coffees,French Roast Clover®,[],Ingredients
+48,48, Hot Coffees ,/menu/drinks/hot-coffees,Italian Roast Clover®,[],Ingredients
+49,49, Hot Coffees ,/menu/drinks/hot-coffees,Komodo Dragon Clover®,[],Ingredients
+50,50, Hot Coffees ,/menu/drinks/hot-coffees,Sumatra Clover®,[],Ingredients
+51,51, Hot Coffees ,/menu/drinks/hot-coffees,Coffee Traveler - Veranda Blend®,[],Ingredients
+52,52, Hot Coffees ,/menu/drinks/hot-coffees,Coffee Traveler - Dark Roast,[],Ingredients
+53,53, Hot Coffees ,/menu/drinks/hot-coffees,Coffee Traveler - Pike Place® Roast,[],Ingredients
+54,54, Hot Coffees ,/menu/drinks/hot-coffees,Coffee Traveler - Decaf Pike Place® Roast,[],Ingredients
+55,0, Hot Teas ,/menu/drinks/hot-teas,Chai Tea Latte,"['2% Milk', 'Milk Foam', 'Steamed Hot', '4 pump(s) Chai', 'Water']",Ingredients
+56,1, Hot Teas ,/menu/drinks/hot-teas,Chai Tea,['2  Tea Bag(s)'],Ingredients
+57,2, Hot Teas ,/menu/drinks/hot-teas,Earl Grey Tea,['2  Tea Bag(s)'],Ingredients
+58,3, Hot Teas ,/menu/drinks/hot-teas,Teavana® London Fog Tea Latte,"['2% Milk', 'Milk Foam', 'Steamed Hot', '4 pump(s) Vanilla Syrup', '2  Tea Bag(s)']",Ingredients
+59,4, Hot Teas ,/menu/drinks/hot-teas,Royal English Breakfast Tea,['2  Tea Bag(s)'],Ingredients
+60,5, Hot Teas ,/menu/drinks/hot-teas,Royal English Breakfast Tea Latte,"['2% Milk', 'Milk Foam', 'Steamed Hot', '2  Tea Bag(s)', '4 pump (s) Liquid Cane Sugar', 'Water']",Ingredients
+61,6, Hot Teas ,/menu/drinks/hot-teas,Emperor’s Clouds & Mist®,['2  Tea Bag(s)'],Ingredients
+62,7, Hot Teas ,/menu/drinks/hot-teas,Matcha Tea Latte,"['2% Milk', 'Milk Foam', 'Steamed Hot', '3 scoop(s) Matcha Powder']",Ingredients
+63,8, Hot Teas ,/menu/drinks/hot-teas,Honey Citrus Mint Tea,"['2 pump (s) Honey Blend', 'Lemonade', '2  Tea Bag(s)']",Ingredients
+64,9, Hot Teas ,/menu/drinks/hot-teas,Jade Citrus Mint® Brewed Tea,['2  Tea Bag(s)'],Ingredients
+65,10, Hot Teas ,/menu/drinks/hot-teas,Mint Majesty®,['2  Tea Bag(s)'],Ingredients
+66,11, Hot Teas ,/menu/drinks/hot-teas,Peach Tranquility®,['2  Tea Bag(s)'],Ingredients
+67,0, Hot Drinks ,/menu/drinks/hot-drinks,Peppermint Hot Chocolate,"['2% Milk', 'Milk Foam', 'Steamed Hot', '4 pump(s) Peppermint Syrup', '4 pump(s) Mocha Sauce', 'Chocolate Curls Topping', 'Whipped Cream']",Ingredients
+68,1, Hot Drinks ,/menu/drinks/hot-drinks,Peppermint White Hot Chocolate,"['2% Milk', 'Milk Foam', 'Steamed Hot', '4 pump(s) Peppermint Syrup', '4 pump(s) White Chocolate Mocha Sauce', 'Chocolate Curls Topping', 'Whipped Cream']",Ingredients
+69,2, Hot Drinks ,/menu/drinks/hot-drinks,Toasted White Hot Chocolate,"['2% Milk', 'Steamed Hot', '4 pump(s) Toasted White Chocolate Mocha Sauce', 'Holiday Sugar Sparkles', 'Whipped Cream']",Ingredients
+70,3, Hot Drinks ,/menu/drinks/hot-drinks,Hot Chocolate,"['2% Milk', 'Milk Foam', 'Steamed Hot', '1 pump(s) Vanilla Syrup', '4 pump(s) Mocha Sauce', 'Mocha Drizzle', 'Whipped Cream']",Ingredients
+71,4, Hot Drinks ,/menu/drinks/hot-drinks,White Hot Chocolate,"['2% Milk', 'Milk Foam', 'Steamed Hot', '4 pump(s) White Chocolate Mocha Sauce', 'Whipped Cream']",Ingredients
+72,5, Hot Drinks ,/menu/drinks/hot-drinks,Caramel Apple Spice,"['4 pump(s) Cinnamon Dolce Syrup', 'Caramel Drizzle', 'Whipped Cream']",Ingredients
+73,6, Hot Drinks ,/menu/drinks/hot-drinks,Steamed Apple Juice,['Steamed Hot'],Ingredients
+74,7, Hot Drinks ,/menu/drinks/hot-drinks,Pumpkin Spice Crème,"['2% Milk', 'Milk Foam', 'Steamed Hot', '4 pump(s) Pumpkin Sauce', 'Pumpkin Spice Topping', 'Whipped Cream']",Ingredients
+75,8, Hot Drinks ,/menu/drinks/hot-drinks,Caramel Brulée Crème,"['2% Milk', 'Milk Foam', 'Steamed Hot', '4 pump(s) Caramel Brulée Sauce', 'Caramel Brulée Topping', 'Whipped Cream']",Ingredients
+76,9, Hot Drinks ,/menu/drinks/hot-drinks,Chestnut Praline Crème,"['2% Milk', 'Steamed Hot', '4 pump(s) Chestnut Praline Syrup', 'Chestnut Praline Topping', 'Whipped Cream']",Ingredients
+77,10, Hot Drinks ,/menu/drinks/hot-drinks,Steamed Milk,"['2% Milk', 'Milk Foam', 'Steamed Hot']",Ingredients
+78,11, Hot Drinks ,/menu/drinks/hot-drinks,Vanilla Crème,"['2% Milk', 'Steamed Hot', '4 pump(s) Vanilla Syrup', 'Whipped Cream']",Ingredients
+79,0, Frappuccino® Blended Beverages ,/menu/drinks/frappuccino-blended-beverages,Pumpkin Spice Frappuccino® Blended Beverage,"['Whole Milk', '3 pump(s) Frappuccino® Roast', '2 pump(s) Pumpkin Sauce', 'Pumpkin Spice Topping', 'Whipped Cream']",Ingredients
+80,1, Frappuccino® Blended Beverages ,/menu/drinks/frappuccino-blended-beverages,Apple Crisp Oatmilk Frappuccino® Blended Beverage,"['Oatmilk', '3 pump(s) Frappuccino® Roast', '2 pump(s) Apple Brown Sugar', 'Spiced Apple Drizzle', 'Whipped Cream']",Ingredients
+81,2, Frappuccino® Blended Beverages ,/menu/drinks/frappuccino-blended-beverages,Peppermint Mocha Frappuccino® Blended Beverage,"['Whole Milk', '3 pump(s) Frappuccino® Roast', '2 pump(s) Peppermint Syrup', '2 pump(s) Mocha Sauce', 'Chocolate Curls Topping', 'Whipped Cream']",Ingredients
+82,3, Frappuccino® Blended Beverages ,/menu/drinks/frappuccino-blended-beverages,Peppermint White Chocolate Mocha Frappuccino® Blended Beverage,"['Whole Milk', '3 pump(s) Frappuccino® Roast', '2 pump(s) Peppermint Syrup', '2 pump(s) White Chocolate Mocha Sauce', 'Chocolate Curls Topping', 'Whipped Cream', 'Ice']",Ingredients
+83,4, Frappuccino® Blended Beverages ,/menu/drinks/frappuccino-blended-beverages,Caramel Brulée Frappuccino® Blended Beverage,"['Whole Milk', '3 pump(s) Frappuccino® Roast', '2 pump(s) Caramel Brulée Sauce', 'Caramel Brulée Topping', 'Whipped Cream', 'Ice']",Ingredients
+84,5, Frappuccino® Blended Beverages ,/menu/drinks/frappuccino-blended-beverages,Chestnut Praline Frappuccino® Blended Beverage,"['Whole Milk', '3 pump(s) Frappuccino® Roast', '2 pump(s) Chestnut Praline Syrup', 'Chestnut Praline Topping', 'Whipped Cream']",Ingredients
+85,6, Frappuccino® Blended Beverages ,/menu/drinks/frappuccino-blended-beverages,Mocha Cookie Crumble Frappuccino®,"['Whole Milk', '3  Frappuccino® Chips', '3 pump(s) Frappuccino® Roast', '3 pump(s) Mocha Sauce', 'Mocha Drizzle', 'Whipped Cream', 'Cookie Crumble Topping', 'Ice']",Ingredients
+86,7, Frappuccino® Blended Beverages ,/menu/drinks/frappuccino-blended-beverages,Sugar Cookie Almondmilk Frappuccino® Blended Beverage,"['Almond', '3 pump(s) Frappuccino® Roast', '2 pump(s) Sugar Cookie Syrup', 'Red and Green Sprinkle Topping', 'Whipped Cream']",Ingredients
+87,8, Frappuccino® Blended Beverages ,/menu/drinks/frappuccino-blended-beverages,Toasted White Chocolate Mocha Frappuccino® Blended Beverage,"['Whole Milk', '3 pump(s) Frappuccino® Roast', '2 pump(s) Toasted White Chocolate Mocha Sauce', 'Holiday Sugar Sparkles', 'Whipped Cream']",Ingredients
+88,9, Frappuccino® Blended Beverages ,/menu/drinks/frappuccino-blended-beverages,Caramel Ribbon Crunch Frappuccino® Blended Beverage,"['Whole Milk', '3 pump(s) Frappuccino® Roast', '5 pump(s) New Dark Caramel Sauce', 'Caramel Crunch Topping', 'Caramel Drizzle', 'Whipped Cream']",Ingredients
+89,10, Frappuccino® Blended Beverages ,/menu/drinks/frappuccino-blended-beverages,Espresso Frappuccino® Blended Beverage,"['Whole Milk', '1  Shots', '3 pump(s) Frappuccino® Roast']",Ingredients
+90,11, Frappuccino® Blended Beverages ,/menu/drinks/frappuccino-blended-beverages,Caffè Vanilla Frappuccino® Blended Beverage,"['Whole Milk', '3 pump(s) Frappuccino® Roast', 'Whipped Cream', '3 scoop(s) Vanilla Bean Powder']",Ingredients
+91,12, Frappuccino® Blended Beverages ,/menu/drinks/frappuccino-blended-beverages,Caramel Frappuccino® Blended Beverage,"['Whole Milk', '3 pump(s) Frappuccino® Roast', '3 pump(s) Caramel Syrup', 'Caramel Drizzle', 'Whipped Cream']",Ingredients
+92,13, Frappuccino® Blended Beverages ,/menu/drinks/frappuccino-blended-beverages,Coffee Frappuccino® Blended Beverage,"['Whole Milk', '3 pump(s) Frappuccino® Roast']",Ingredients
+93,14, Frappuccino® Blended Beverages ,/menu/drinks/frappuccino-blended-beverages,Mocha Frappuccino® Blended Beverage,"['Whole Milk', '3 pump(s) Frappuccino® Roast', '3 pump(s) Mocha Sauce', 'Whipped Cream']",Ingredients
+94,15, Frappuccino® Blended Beverages ,/menu/drinks/frappuccino-blended-beverages,Java Chip Frappuccino® Blended Beverage,"['Whole Milk', '3  Frappuccino® Chips', '3 pump(s) Frappuccino® Roast', '3 pump(s) Mocha Sauce', 'Mocha Drizzle', 'Whipped Cream', 'Ice']",Ingredients
+95,16, Frappuccino® Blended Beverages ,/menu/drinks/frappuccino-blended-beverages,White Chocolate Mocha Frappuccino® Blended Beverage,"['Whole Milk', '3 pump(s) Frappuccino® Roast', '3 pump(s) White Chocolate Mocha Sauce', 'Whipped Cream']",Ingredients
+96,17, Frappuccino® Blended Beverages ,/menu/drinks/frappuccino-blended-beverages,Pumpkin Spice Crème Frappuccino® Blended Beverage,"['Whole Milk', '2 pump(s) Pumpkin Sauce', 'Pumpkin Spice Topping', 'Whipped Cream']",Ingredients
+97,18, Frappuccino® Blended Beverages ,/menu/drinks/frappuccino-blended-beverages,Apple Crisp Oatmilk Crème Frappuccino® Blended Beverage,"['Oatmilk', '2 pump(s) Apple Brown Sugar', 'Spiced Apple Drizzle', 'Whipped Cream']",Ingredients
+98,19, Frappuccino® Blended Beverages ,/menu/drinks/frappuccino-blended-beverages,Peppermint Mocha Crème Frappuccino® Blended Beverage,"['Whole Milk', '2 pump(s) Peppermint Syrup', '2 pump(s) Mocha Sauce', 'Chocolate Curls Topping', 'Whipped Cream', 'Ice']",Ingredients
+99,20, Frappuccino® Blended Beverages ,/menu/drinks/frappuccino-blended-beverages,Peppermint White Chocolate Crème Frappuccino® Blended Beverage,"['Whole Milk', '2 pump(s) Peppermint Syrup', '2 pump(s) White Chocolate Mocha Sauce', 'Whipped Cream', 'Ice']",Ingredients
+100,21, Frappuccino® Blended Beverages ,/menu/drinks/frappuccino-blended-beverages,Caramel Brulée Crème Frappuccino® Blended Beverage,"['Whole Milk', '2 pump(s) Caramel Brulée Sauce', 'Caramel Brulée Topping', 'Whipped Cream', 'Ice']",Ingredients
+101,22, Frappuccino® Blended Beverages ,/menu/drinks/frappuccino-blended-beverages,Chestnut Praline Crème Frappuccino® Blended Beverage,"['Whole Milk', '2 pump(s) Chestnut Praline Syrup', 'Chestnut Praline Topping', 'Whipped Cream']",Ingredients
+102,23, Frappuccino® Blended Beverages ,/menu/drinks/frappuccino-blended-beverages,Sugar Cookie Almondmilk Crème Frappuccino® Blended Beverage,"['Almond', '2 pump(s) Sugar Cookie Syrup', 'Red and Green Sprinkle Topping', 'Whipped Cream']",Ingredients
+103,24, Frappuccino® Blended Beverages ,/menu/drinks/frappuccino-blended-beverages,Toasted White Chocolate Crème Frappuccino® Blended Beverage,"['Whole Milk', '2 pump(s) Toasted White Chocolate Mocha Sauce', 'Holiday Sugar Sparkles', 'Whipped Cream']",Ingredients
+104,25, Frappuccino® Blended Beverages ,/menu/drinks/frappuccino-blended-beverages,Chocolate Cookie Crumble Crème Frappuccino®,"['Whole Milk', '3  Frappuccino® Chips', '3 pump(s) Mocha Sauce', 'Mocha Drizzle', 'Whipped Cream', 'Cookie Crumble Topping']",Ingredients
+105,26, Frappuccino® Blended Beverages ,/menu/drinks/frappuccino-blended-beverages,Caramel Ribbon Crunch Crème Frappuccino® Blended Beverage,"['Whole Milk', '5 pump(s) New Dark Caramel Sauce', 'Caramel Crunch Topping', 'Caramel Drizzle', 'Whipped Cream']",Ingredients
+106,27, Frappuccino® Blended Beverages ,/menu/drinks/frappuccino-blended-beverages,Strawberry Crème Frappuccino® Blended Beverage,"['Whole Milk', 'Whipped Cream', '2 pump (s) Classic Syrup', 'Strawberry Puree']",Ingredients
+107,28, Frappuccino® Blended Beverages ,/menu/drinks/frappuccino-blended-beverages,Chai Crème Frappuccino®,"['Whole Milk', 'Cinnamon Powder', 'Whipped Cream', '2 pump(s) Chai', 'Ice']",Ingredients
+108,29, Frappuccino® Blended Beverages ,/menu/drinks/frappuccino-blended-beverages,Double Chocolaty Chip Crème Frappuccino® Blended Beverage,"['Whole Milk', '3  Frappuccino® Chips', '3 pump(s) Mocha Sauce', 'Mocha Drizzle', 'Whipped Cream', 'Ice']",Ingredients
+109,30, Frappuccino® Blended Beverages ,/menu/drinks/frappuccino-blended-beverages,Matcha Crème Frappuccino® Blended Beverage,"['Whole Milk', 'Whipped Cream', '3 pump (s) Classic Syrup', 'Ice', '3 scoop(s) Matcha Powder']",Ingredients
+110,31, Frappuccino® Blended Beverages ,/menu/drinks/frappuccino-blended-beverages,Vanilla Bean Crème Frappuccino® Blended Crème,"['Whole Milk', 'Whipped Cream', '3 scoop(s) Vanilla Bean Powder']",Ingredients
+111,32, Frappuccino® Blended Beverages ,/menu/drinks/frappuccino-blended-beverages,White Chocolate Crème Frappuccino® Blended Beverage,"['Whole Milk', '3 pump(s) White Chocolate Mocha Sauce', 'Whipped Cream']",Ingredients
+112,0, Cold Coffees ,/menu/drinks/cold-coffees,Pumpkin Cream Cold Brew,"['2 pump(s) Vanilla Syrup', 'Pumpkin Spice Topping', 'Pumpkin Cream Cold Foam', 'Ice']",Ingredients
+113,1, Cold Coffees ,/menu/drinks/cold-coffees,Chocolate Cream Cold Brew,"['2 pump(s) Vanilla Syrup', 'Chocolate Cream Cold Foam', 'Ice']",Ingredients
+114,2, Cold Coffees ,/menu/drinks/cold-coffees,Salted Caramel Cream Cold Brew,"['2 pump(s) Vanilla Syrup', 'Salted Caramel Cream Cold Foam', 'Ice']",Ingredients
+115,3, Cold Coffees ,/menu/drinks/cold-coffees,Irish Cream Cold Brew,"['2 pump(s) Irish Cream Syrup', 'Barista Cocoa Powder', 'Irish Cream Cold Foam', 'Ice']",Ingredients
+116,4, Cold Coffees ,/menu/drinks/cold-coffees,Starbucks® Cold Brew Coffee,['Ice'],Ingredients
+117,5, Cold Coffees ,/menu/drinks/cold-coffees,Vanilla Sweet Cream Cold Brew,"['2 pump(s) Vanilla Syrup', 'Ice', 'Splash of Vanilla Sweet Cream']",Ingredients
+118,6, Cold Coffees ,/menu/drinks/cold-coffees,Starbucks® Cold Brew Coffee with Milk,"['2% Milk', 'Ice']",Ingredients
+119,7, Cold Coffees ,/menu/drinks/cold-coffees,Nitro Cold Brew,[],Ingredients
+120,8, Cold Coffees ,/menu/drinks/cold-coffees,Vanilla Sweet Cream Nitro Cold Brew,['Splash of Vanilla Sweet Cream'],Ingredients
+121,9, Cold Coffees ,/menu/drinks/cold-coffees,Iced Caffè Americano,"['Ice', 'Water', '3  Shots', 'Signature Espresso Roast']",Ingredients
+122,10, Cold Coffees ,/menu/drinks/cold-coffees,Iced Coffee,"['Ice', '4 pump (s) Classic Syrup']",Ingredients
+123,11, Cold Coffees ,/menu/drinks/cold-coffees,Iced Coffee with Milk,"['2% Milk', 'Ice', '4 pump (s) Classic Syrup']",Ingredients
+124,12, Cold Coffees ,/menu/drinks/cold-coffees,Iced Espresso,"['Ice', '2  Shots', 'Signature Espresso Roast', 'Tall Cup']",Ingredients
+125,13, Cold Coffees ,/menu/drinks/cold-coffees,Iced Toasted Vanilla Oatmilk Shaken Espresso,"['Oatmilk', '4 pump(s) Toasted Vanilla Syrup', '3  Shots']",Ingredients
+126,14, Cold Coffees ,/menu/drinks/cold-coffees,Iced Brown Sugar Oatmilk Shaken Espresso,"['Oatmilk', '4 pump(s) Brown Sugar Syrup', 'Cinnamon Powder', '3  Shots']",Ingredients
+127,15, Cold Coffees ,/menu/drinks/cold-coffees,Iced Chocolate Almondmilk Shaken Espresso,"['Almond', 'Chocolate Malt Powder', '3  Shots', 'Blonde Espresso Roast']",Ingredients
+128,16, Cold Coffees ,/menu/drinks/cold-coffees,Iced Shaken Espresso,"['2% Milk', '4 pump (s) Classic Syrup', '3  Shots', 'Signature Espresso Roast']",Ingredients
+129,17, Cold Coffees ,/menu/drinks/cold-coffees,Iced Flat White,"['Whole Milk', 'Ice', '3  Shots', 'Signature Espresso Roast', 'Ristretto']",Ingredients
+130,18, Cold Coffees ,/menu/drinks/cold-coffees,Iced Honey Almondmilk Flat White,"['Almond', 'Ice', '2  Shots', 'Ristretto', '3 pump (s) Honey Blend']",Ingredients
+131,19, Cold Coffees ,/menu/drinks/cold-coffees,Iced Pumpkin Spice Latte,"['2% Milk', '4 pump(s) Pumpkin Sauce', 'Pumpkin Spice Topping', 'Whipped Cream', 'Ice', '2  Shots', 'Signature Espresso Roast']",Ingredients
+132,20, Cold Coffees ,/menu/drinks/cold-coffees,Iced Caramel Brulée Latte,"['2% Milk', '4 pump(s) Caramel Brulée Sauce', 'Caramel Brulée Topping', 'Whipped Cream', 'Ice', '2  Shots', 'Signature Espresso Roast']",Ingredients
+133,21, Cold Coffees ,/menu/drinks/cold-coffees,Iced Chestnut Praline Latte,"['2% Milk', '4 pump(s) Chestnut Praline Syrup', 'Chestnut Praline Topping', 'Whipped Cream', 'Ice', '2  Shots', 'Signature Espresso Roast']",Ingredients
+134,22, Cold Coffees ,/menu/drinks/cold-coffees,Iced Sugar Cookie Almondmilk Latte,"['Almond', '4 pump(s) Sugar Cookie Syrup', 'Red and Green Sprinkle Topping', 'Ice', '2  Shots']",Ingredients
+135,23, Cold Coffees ,/menu/drinks/cold-coffees,Starbucks Reserve® Iced Latte,"['Whole Milk', 'Ice', '2  Starbucks Reserve® Espresso Shots']",Ingredients
+136,24, Cold Coffees ,/menu/drinks/cold-coffees,Starbucks Reserve® Iced Hazelnut Bianco Latte,"['Ice', '2  Starbucks Reserve® Espresso Shots']",Ingredients
+137,25, Cold Coffees ,/menu/drinks/cold-coffees,Iced Caffè Latte,"['2% Milk', 'Ice', '2  Shots', 'Signature Espresso Roast']",Ingredients
+138,26, Cold Coffees ,/menu/drinks/cold-coffees,Iced Cinnamon Dolce Latte,"['2% Milk', '4 pump(s) Cinnamon Dolce Syrup', 'Cinnamon Dolce Sprinkles', 'Whipped Cream', 'Ice', '2  Shots', 'Signature Espresso Roast']",Ingredients
+139,27, Cold Coffees ,/menu/drinks/cold-coffees,Iced Starbucks® Blonde Vanilla Latte,"['2% Milk', '4 pump(s) Vanilla Syrup', 'Ice', '2  Shots']",Ingredients
+140,28, Cold Coffees ,/menu/drinks/cold-coffees,Iced Apple Crisp Oatmilk Macchiato,"['Oatmilk', '3 pump(s) Apple Brown Sugar', 'Spiced Apple Drizzle', 'Ice', '2  Shots', 'Blonde Espresso Roast']",Ingredients
+141,29, Cold Coffees ,/menu/drinks/cold-coffees,Iced Caramel Macchiato,"['2% Milk', '3 pump(s) Vanilla Syrup', 'Caramel Drizzle', 'Ice', '2  Shots', 'Signature Espresso Roast']",Ingredients
+142,30, Cold Coffees ,/menu/drinks/cold-coffees,Iced Peppermint Mocha,"['2% Milk', '4 pump(s) Peppermint Syrup', '4 pump(s) Mocha Sauce', 'Chocolate Curls Topping', 'Whipped Cream', 'Ice', '2  Shots', 'Signature Espresso Roast']",Ingredients
+143,31, Cold Coffees ,/menu/drinks/cold-coffees,Iced White Chocolate Mocha,"['2% Milk', '4 pump(s) White Chocolate Mocha Sauce', 'Whipped Cream', 'Ice', '2  Shots', 'Signature Espresso Roast']",Ingredients
+144,32, Cold Coffees ,/menu/drinks/cold-coffees,Iced Peppermint White Chocolate Mocha,"['2% Milk', '4 pump(s) Peppermint Syrup', '4 pump(s) White Chocolate Mocha Sauce', 'Chocolate Curls Topping', 'Whipped Cream', 'Ice', '2  Shots', 'Signature Espresso Roast']",Ingredients
+145,33, Cold Coffees ,/menu/drinks/cold-coffees,Iced Toasted White Chocolate Mocha,"['2% Milk', '4 pump(s) Toasted White Chocolate Mocha Sauce', 'Holiday Sugar Sparkles', 'Whipped Cream', 'Ice', '2  Shots', 'Signature Espresso Roast']",Ingredients
+146,34, Cold Coffees ,/menu/drinks/cold-coffees,Iced Caffè Mocha,"['2% Milk', '4 pump(s) Mocha Sauce', 'Whipped Cream', 'Ice', '2  Shots', 'Signature Espresso Roast']",Ingredients
+147,35, Cold Coffees ,/menu/drinks/cold-coffees,Starbucks Reserve® Iced Dark Chocolate Mocha,"['Whole Milk', 'Ice', '2  Starbucks Reserve® Espresso Shots']",Ingredients
+148,36, Cold Coffees ,/menu/drinks/cold-coffees,Iced Starbucks Reserve® Christmas 2022 Clover®,['Ice'],Ingredients
+149,37, Cold Coffees ,/menu/drinks/cold-coffees,Iced Hawai‘i Ka‘u Clover® Starbucks Reserve®,['Ice'],Ingredients
+150,38, Cold Coffees ,/menu/drinks/cold-coffees,Iced Sun-Dried Zambia Ngoli Estate Clover® Starbucks Reserve®,['Ice'],Ingredients
+151,39, Cold Coffees ,/menu/drinks/cold-coffees,Iced Vietnam Da Lat Clover® Starbucks Reserve®,['Ice'],Ingredients
+152,40, Cold Coffees ,/menu/drinks/cold-coffees,Iced Clover® Starbucks Reserve® Costa Rica Naranjo,[],Ingredients
+153,41, Cold Coffees ,/menu/drinks/cold-coffees,Iced Clover Brewed®  Breakfast Blend,['Ice'],Ingredients
+154,42, Cold Coffees ,/menu/drinks/cold-coffees,Iced Caffé Verona® Clover®,['Ice'],Ingredients
+155,43, Cold Coffees ,/menu/drinks/cold-coffees,Iced Clover Brewed® Decaf Espresso Roast,['Ice'],Ingredients
+156,44, Cold Coffees ,/menu/drinks/cold-coffees,Iced Clover Brewed® Decaf Pike Place® Roast,['Ice'],Ingredients
+157,45, Cold Coffees ,/menu/drinks/cold-coffees,Iced Espresso Roast Clover®,['Ice'],Ingredients
+158,46, Cold Coffees ,/menu/drinks/cold-coffees,Iced Ethiopia Clover®,['Ice'],Ingredients
+159,47, Cold Coffees ,/menu/drinks/cold-coffees,Iced French Roast Clover®,['Ice'],Ingredients
+160,48, Cold Coffees ,/menu/drinks/cold-coffees,Iced Clover Brewed® Gold Coast Blend®,['Ice'],Ingredients
+161,49, Cold Coffees ,/menu/drinks/cold-coffees,Iced Clover Brewed® Italian Roast,['Ice'],Ingredients
+162,50, Cold Coffees ,/menu/drinks/cold-coffees,Iced Clover Brewed® Kenya,['Ice'],Ingredients
+163,51, Cold Coffees ,/menu/drinks/cold-coffees,Iced Komodo Dragon Clover®,['Ice'],Ingredients
+164,52, Cold Coffees ,/menu/drinks/cold-coffees,Iced Pike Place® Roast Clover®,['Ice'],Ingredients
+165,53, Cold Coffees ,/menu/drinks/cold-coffees,Iced Veranda Blend® Clover®,['Ice'],Ingredients
+166,54, Cold Coffees ,/menu/drinks/cold-coffees,Iced Organic Yukon Blend® Clover®,['Ice'],Ingredients
+167,55, Cold Coffees ,/menu/drinks/cold-coffees,Iced Clover Brewed® Starbucks Willow Blend,['Ice'],Ingredients
+168,56, Cold Coffees ,/menu/drinks/cold-coffees,Iced Decaf Sumatra Clover®,['Ice'],Ingredients
+169,57, Cold Coffees ,/menu/drinks/cold-coffees,Iced Sumatra Clover®,['Ice'],Ingredients
+170,0, Iced Teas ,/menu/drinks/iced-teas,Teavana® Sparkling Unsweetened Peach Nectarine Green Tea,[],Ingredients
+171,1, Iced Teas ,/menu/drinks/iced-teas,Teavana® Mango Black Tea,[],Ingredients
+172,2, Iced Teas ,/menu/drinks/iced-teas,Iced Black Tea,"['Ice', 'Water']",Ingredients
+173,3, Iced Teas ,/menu/drinks/iced-teas,Iced Black Tea Lemonade,"['Ice', 'Lemonade']",Ingredients
+174,4, Iced Teas ,/menu/drinks/iced-teas,Iced Royal English Breakfast Tea Latte,"['2% Milk', '2  Tea Bag(s)', '4 pump (s) Liquid Cane Sugar', 'Ice', 'Water']",Ingredients
+175,5, Iced Teas ,/menu/drinks/iced-teas,Iced London Fog Tea Latte,"['2% Milk', '4 pump(s) Vanilla Syrup', '2  Tea Bag(s)', 'Ice']",Ingredients
+176,6, Iced Teas ,/menu/drinks/iced-teas,Iced Chai Tea Latte,"['2% Milk', '4 pump(s) Chai', 'Ice']",Ingredients
+177,7, Iced Teas ,/menu/drinks/iced-teas,Iced Peach Green Tea,"['Ice', 'Water', 'Peach Juice Blend']",Ingredients
+178,8, Iced Teas ,/menu/drinks/iced-teas,Iced Peach Green Tea Lemonade,"['Ice', 'Peach Juice Blend', 'Lemonade']",Ingredients
+179,9, Iced Teas ,/menu/drinks/iced-teas,Iced Matcha Tea Latte,"['2% Milk', '3 scoop(s) Matcha Powder', 'Ice']",Ingredients
+180,10, Iced Teas ,/menu/drinks/iced-teas,Iced Green Tea,"['Ice', 'Water']",Ingredients
+181,11, Iced Teas ,/menu/drinks/iced-teas,Iced Green Tea Lemonade,"['Ice', 'Lemonade']",Ingredients
+182,12, Iced Teas ,/menu/drinks/iced-teas,Iced Matcha Lemonade,"['Ice', 'Water', '3 scoop(s) Matcha Powder', 'Lemonade']",Ingredients
+183,13, Iced Teas ,/menu/drinks/iced-teas,Iced Passion Tango® Tea,"['Ice', 'Water']",Ingredients
+184,14, Iced Teas ,/menu/drinks/iced-teas,Iced Passion Tango® Tea Lemonade,[],Ingredients
+185,0, Cold Drinks ,/menu/drinks/cold-drinks,Dragon Drink® Starbucks Refreshers® Beverage,"['Coconut', '1 scoop(s) Dragonfruit Inclusion', 'Ice']",Ingredients
+186,1, Cold Drinks ,/menu/drinks/cold-drinks,Mango Dragonfruit Starbucks Refreshers® Beverage,"['1 scoop(s) Dragonfruit Inclusion', 'Ice', 'Water']",Ingredients
+187,2, Cold Drinks ,/menu/drinks/cold-drinks,Mango Dragonfruit Lemonade Starbucks Refreshers® Beverage,"['1 scoop(s) Dragonfruit Inclusion', 'Ice', 'Lemonade']",Ingredients
+188,3, Cold Drinks ,/menu/drinks/cold-drinks,Paradise Drink Starbucks Refreshers® Beverage,"['Coconut', '1 scoop(s) Freeze Dried Pineapple', 'Ice']",Ingredients
+189,4, Cold Drinks ,/menu/drinks/cold-drinks,Strawberry Açaí Lemonade Starbucks Refreshers® Beverage,"['1 scoop(s) Strawberries', 'Ice', 'Lemonade']",Ingredients
+190,5, Cold Drinks ,/menu/drinks/cold-drinks,Pineapple Passionfruit Starbucks Refreshers® Beverage,"['1 scoop(s) Freeze Dried Pineapple', 'Ice', 'Water']",Ingredients
+191,6, Cold Drinks ,/menu/drinks/cold-drinks,Pineapple Passionfruit Lemonade Starbucks Refreshers® Beverage,"['1 scoop(s) Freeze Dried Pineapple', 'Ice', 'Lemonade']",Ingredients
+192,7, Cold Drinks ,/menu/drinks/cold-drinks,Pink Drink Starbucks Refreshers® Beverage,"['Coconut', '1 scoop(s) Strawberries', 'Ice']",Ingredients
+193,8, Cold Drinks ,/menu/drinks/cold-drinks,Strawberry Açaí Starbucks Refreshers® Beverage,"['1 scoop(s) Strawberries', 'Ice', 'Water']",Ingredients
+194,9, Cold Drinks ,/menu/drinks/cold-drinks,Starbucks BAYA™ Energy Mango Guava,[],Ingredients
+195,10, Cold Drinks ,/menu/drinks/cold-drinks,Evolution Fresh® Organic Vital Berry,[],Ingredients
+196,11, Cold Drinks ,/menu/drinks/cold-drinks,Evolution Fresh® Organic Defense Up®,[],Ingredients
+197,12, Cold Drinks ,/menu/drinks/cold-drinks,Evolution Fresh® Orange,[],Ingredients
+198,13, Cold Drinks ,/menu/drinks/cold-drinks,Evolution Fresh® Organic Super Fruit Greens,[],Ingredients
+199,14, Cold Drinks ,/menu/drinks/cold-drinks,Evolution Fresh® Mighty Watermelon,[],Ingredients
+200,15, Cold Drinks ,/menu/drinks/cold-drinks,Tree Top Apple Juice Box,[],Ingredients
+201,16, Cold Drinks ,/menu/drinks/cold-drinks,Starbucks BAYA™ Energy Raspberry Lime,[],Ingredients
+202,17, Cold Drinks ,/menu/drinks/cold-drinks,Lemonade,['Ice'],Ingredients
+203,18, Cold Drinks ,/menu/drinks/cold-drinks,Blended Strawberry Lemonade,"['Lemonade', 'Strawberry Puree']",Ingredients
+204,19, Cold Drinks ,/menu/drinks/cold-drinks,Horizon® Chocolate Organic Milk,[],Ingredients
+205,20, Cold Drinks ,/menu/drinks/cold-drinks,Horizon® Organic Lowfat Milk Box,[],Ingredients
+206,21, Cold Drinks ,/menu/drinks/cold-drinks,SBC Milk,['2% Milk'],Ingredients
+207,22, Cold Drinks ,/menu/drinks/cold-drinks,Horizon® Organic Vanilla Milk Box,[],Ingredients
+208,23, Cold Drinks ,/menu/drinks/cold-drinks,Galvanina Sparkling Water,[],Ingredients
+209,24, Cold Drinks ,/menu/drinks/cold-drinks,Spindrift® Grapefruit Sparkling Water,[],Ingredients
+210,25, Cold Drinks ,/menu/drinks/cold-drinks,Spindrift® Raspberry Lime Sparkling Water,[],Ingredients
+211,26, Cold Drinks ,/menu/drinks/cold-drinks,Galvanina Sparkling Water - Lime,[],Ingredients
+212,27, Cold Drinks ,/menu/drinks/cold-drinks,DASANI Bottled Water,[],Ingredients
+213,28, Cold Drinks ,/menu/drinks/cold-drinks,Ethos® Bottled Water,[],Ingredients
+214,29, Cold Drinks ,/menu/drinks/cold-drinks,Hawai‘i Volcanic Water,[],Ingredients
