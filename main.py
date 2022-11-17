@@ -1,17 +1,14 @@
-import requests
 import pandas as pd
 from bs4 import BeautifulSoup
 from selenium import webdriver
 from selenium.webdriver.firefox.options import Options
 from selenium.webdriver.common.by import By
-import json
 
 # Grab content from URL (Pegar conteúdo HTML a partir da URL)
 menu_url = "https://www.starbucks.com/menu"
 
 ## Instancing Firefox Automation
-option = Options()
-option.headless = True
+
 
 
 def getDrinkTypes(url):
@@ -43,7 +40,7 @@ def getDrinkTypes(url):
         print('Could not connect with Starbucks Menu Website')
 
     for drink in df.index:
-        print('----------Iterating:{} of {} ------------'.format(drink,df.index.len()))
+        print('----------Iterating:{} of {} ------------'.format(drink,len(df.index)))
         drink_type = (df['Drink Type'][drink])
         drink_link = (df['Drink Type Link'][drink])
         try:
@@ -85,6 +82,8 @@ def getCofeeTypes(coffeeUrlEndpoint,drink_type):
     coffee_ingredient_list =[]
 
     for coffee in coffees:
+        i = 0
+        print('----------Iterating:{} of {} ------------'.format(i,len(coffees)))
         drink_type_list.append(drink_type)
         drink_type_url_list.append(coffeeUrlEndpoint)
         coffee_list.append(coffee.get_text())
@@ -92,6 +91,7 @@ def getCofeeTypes(coffeeUrlEndpoint,drink_type):
         #getting Drink info
         ingredient_list = getCoffeeRecipie(coffee['href'])
         coffee_ingredient_list.append(ingredient_list )
+        i=i+1
         
     #print(cofee_list)
     #print(cofee_url_list)
@@ -111,10 +111,12 @@ def getCoffeeRecipie(drink_url_endpoint):
         driver.quit()
         soup = BeautifulSoup(html_content, 'html.parser')
         ingredients = soup.find_all('li')
+        print(ingredients)
         
         for ingredient in ingredients:
             ingredient_list.append(ingredient.get_text())
-            return ingredient_list
+            print(ingredient_list)
+        return ingredient_list
     except:
         print('Failed to grab {} ingredients'.format())
         ingredient_list.append('Unable to get data')
