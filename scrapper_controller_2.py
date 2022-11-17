@@ -16,7 +16,7 @@ option.headless = True
 
 def getDrinkTypes(url):
     try:
-        driver = webdriver.Firefox()
+        driver = webdriver.Chrome()
         driver.get(url)
         driver.implicitly_wait(10)  # in seconds
         starbucks_table = pd.DataFrame(columns = ['Drink Type','Drink Type Link','Coffee Name','Coffee Url','Ingredients'])
@@ -32,37 +32,24 @@ def getDrinkTypes(url):
         drink_type = soup.find_all("span",class_="hiddenVisually")
         drink_type_list_soup = soup.find_all(class_='block linkOverlay__primary tile___1wb3i', href=True)
         drink_type_list =[]
-        
+        print('Finish Parsing')
         for drink in drink_type_list_soup:
             drink_type_list.append(drink['href'])
         
         ## Creating Dataframe
         df = pd.DataFrame(drink_type,columns=['Drink Type'])
         df['Drink Type Link'] = drink_type_list
+        return df
     except: 
         print('Could not connect with Starbucks Menu Website')
-
-    for drink in df.index:
-        print('----------Iterating:{} of {} ------------'.format(drink,df.index))
-        drink_type = (df['Drink Type'][drink])
-        drink_link = (df['Drink Type Link'][drink])
-        try:
-            temp_table = getCofeeTypes(drink_link,drink_type)
-        except:
-            print('Failed to grab {} information'.format(df['Drink Type'][drink]))
-
-        starbucks_table = starbucks_table.append(temp_table) 
-        starbucks_table.to_csv('starbucks.csv')
-                
-
-        driver.quit()
 
     
 def getCofeeTypes(coffeeUrlEndpoint,drink_type):
     #print(starbucks_table)
     coffeeUrl = 'https://www.starbucks.com' + coffeeUrlEndpoint
     try:
-        driver = webdriver.Firefox()
+        print('Grabing {} Data in {}'.format(drink_type,coffeeUrlEndpoint))
+        driver = webdriver.Chrome()
         driver.get(coffeeUrl)
         driver.implicitly_wait(5)  # in seconds
         element = driver.find_element(By.CSS_SELECTOR,'#content > div.footerOutOfView___14U1r.contentWithSubnav___2OXSW > div > div')
@@ -90,8 +77,8 @@ def getCofeeTypes(coffeeUrlEndpoint,drink_type):
         coffee_list.append(coffee.get_text())
         coffee_url_list.append(coffee['href'])
         #getting Drink info
-        ingredient_list = getCoffeeRecipie(coffee['href'])
-        coffee_ingredient_list.append(ingredient_list )
+        # ingredient_list = getCoffeeRecipie(coffee['href'])
+        #coffee_ingredient_list.append(ingredient_list )
         
     #print(cofee_list)
     #print(cofee_url_list)
@@ -119,5 +106,3 @@ def getCoffeeRecipie(drink_url_endpoint):
         print('Failed to grab {} ingredients'.format())
         ingredient_list.append('Unable to get data')
         return ingredient_list
-
-getDrinkTypes(menu_url)
